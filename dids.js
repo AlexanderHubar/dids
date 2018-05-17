@@ -9,7 +9,8 @@ $( document ).ready(function() {
 		})
 	}
 	function playMusic () {
-		$(".doOR").add( "<audio id='audio' src='audio.mp3' volume='1' loop autoplay></audio>" );
+		$(".doOR").add( "<audio id='audio' src='audio.mp3' volume='1' autoplay></audio>" );
+		setTimeout("$('#audio').pause();", 5000);
 	}
 	$(".doOR").click(function() {
 		playMusic();
