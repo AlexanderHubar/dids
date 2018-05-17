@@ -1,0 +1,63 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+audio {
+	display: none;
+}
+.dids {
+	height: 100vh;
+	width: 100%;
+	background: url("https://fthmb.tqn.com/Tb0PxC5fW_vVeA_QeVDsZCYp1gk=/4032x3024/filters:fill(auto,1)/scenic-view-of-snowcapped-mountains-against-blue-sky-740670351-598783ea03f402001065a152.jpg") no-repeat center;
+	background-size: cover;
+	position: relative;
+}
+
+.did1 {
+	display: none;
+	position: absolute;
+	top: 40px;
+	left: 450px;
+}
+.did2 {
+	display: none;
+  position: absolute;
+  top: 40px;
+  left: 650px;
+}
+.did3 {
+	display: none;
+  position: absolute;
+  top: 40px;
+  left: 350px;
+}
+.did4 {
+	display: none;
+  position: absolute;
+  top: 90px;
+  left: 737px;
+}
+.did5 {
+	display: none;
+  position: absolute;
+  top: 40px;
+  left: 450px;
+}
+.did6 {
+	display: none;
+  position: absolute;
+  top: 40px;
+  left: 650px;
+}
+.did7 {
+	display: none;
+  position: absolute;
+  top: 40px;
+  left: 350px;
+}
+.did8 {
+	display: none;
+  position: absolute;
+  top: 90px;
+  left: 737px;
+}
